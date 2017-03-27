@@ -1,0 +1,39 @@
+.listings-grid__icon--phone {
+    background-image: url(img/icons/phone.png);
+    width: 22px;
+}
+.listings-grid__icon--tv {
+    background-image: url(img/icons/tv.png);
+    width: 22px;
+}
+.listings-grid__icon--dress {
+    background-image: url(img/icons/dress.png);
+    width: 22px;
+}
+.grid-widget__info {
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    width: 100%;
+    color: #fff;
+    padding: 15px 17px 14px;
+    background-color: rgba(0, 0, 2, 0.68);
+    border-radius: 0 0 3px 3px;
+}
+.search__type>a{
+	background: #3bffd2;
+}
+.navigation>li.active>a {
+    color: #3bffd2;
+}
+.tags-list__item{
+	 color: #13b590;
+	     border: 2px solid #3bffd2;
+}
+.footer__to-top{
+	background-color: #3bffd2;
+
+}
+.mdc-bg-orange-300{
+background-color: #0caf89;
+}
